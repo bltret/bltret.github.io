@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "BLT Retro Gaming"
+  - title: "Home"
     url: https://bltret.github.io/
   - title: "About"
     url: /about/
+  - title: "Contact"
+    url: /contact/
