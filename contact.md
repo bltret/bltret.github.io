@@ -3,4 +3,4 @@ layout: default
 ---
 # Contact Me
 
-<b> <a href="mailto: bltretrogaming@gmail.com> E-mail us at bltretrogaming@gmail.com</a></b>
+ E-mail us at <b><a href="mailto: bltretrogaming@gmail.com"> bltretrogaming@gmail.com</a></b>
