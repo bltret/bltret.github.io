@@ -40,3 +40,4 @@ title:  "Streaming Library"
 # Sony Playstation 1
 
 - <a href="https://www.facebook.com/582701405707444/videos/296002838647723/">Crash Bandicoot 2: Cortex Strikes Back & Mega Man X4</a>
+- <a href="https://www.facebook.com/BLTRetro/videos/3951592478240855/">Harry Potter and the Sorcerer's Stone & Chamber of Secrets</a>
