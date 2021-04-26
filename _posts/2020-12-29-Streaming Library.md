@@ -5,6 +5,7 @@ title:  "Streaming Library"
 
 # Super Nintendo (SNES)
 
+-	<a href="https://www.facebook.com/BLTRetro/videos/1195504777535611/">Goof Troop</a>
 -	<a href="https://www.facebook.com/582701405707444/videos/336871171010462/">Mario Paint</a> 
 -	<a href="https://www.facebook.com/582701405707444/videos/597575784520811/">StarFox</a> 
 -	<a href="https://www.facebook.com/582701405707444/videos/140543221020402/">Super Mario Kart</a> 
