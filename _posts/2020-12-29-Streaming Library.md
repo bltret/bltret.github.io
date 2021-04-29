@@ -27,6 +27,8 @@ title:  "Streaming Library"
 
 # N64
 
+- <a href="https://fb.watch/59Tis851tF/">Donkey Kong 64</a>
+- <a href="https://fb.watch/59TJOXjEKp/">Super Mario 64</a>
 -	<a href="https://www.facebook.com/582701405707444/videos/311040683579434/">Diddy Kong Racing</a> 
 -	<a href="https://www.facebook.com/582701405707444/videos/327405445295276/">MarioKart (1) </a> 
 -	<a href="https://www.facebook.com/582701405707444/videos/1295237147485554/">MarioKart (2)</a> 
